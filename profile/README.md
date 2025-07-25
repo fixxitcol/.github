@@ -1,12 +1,24 @@
-## Hi there 👋
+# 🛠️ FIXXIT
 
-<!--
+**FIXXIT** es una plataforma de servicios bajo demanda que conecta usuarios con técnicos calificados — llamados Fixxers — para resolver problemas cotidianos en el hogar o el trabajo. Desde plomería hasta instalaciones eléctricas, estamos creando el Uber de los servicios técnicos en LATAM.
 
-**Here are some ideas to get you started:**
+🚀 Plataforma en desarrollo — MVP en progreso  
+🌐 Sitio oficial: [fixxit.lat](https://fixxit.lat)  
+📱 Aplicaciones: iOS, Android, Web  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 🌟 ¿Qué hacemos?
+
+- Match inteligente entre clientes y técnicos
+- Validación de antecedentes de técnicos
+- Seguimiento de servicios en tiempo real
+- Sistema de reputación y calificaciones
+
+---
+
+### 🧑‍💻 ¿Quieres contribuir?
+
+Consulta nuestra [guía de contribución](../CONTRIBUTING.md) y súmate al equipo.
+
+---
